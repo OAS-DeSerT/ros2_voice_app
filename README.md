@@ -64,5 +64,5 @@ A ROS2 voice application based on XFei SDK.
 
 - IFLYTEK open platform
 
-**http://www.xfyun.cn/** 
+**http://www.xfyun.cn/**
 
